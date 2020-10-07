@@ -131,24 +131,24 @@ header p{
 
 .about, .about-image{
    /*Your Code Here*/
-grid-row: 2;
+grid-row: 2 / auto;
 }
 
 .method, .method-image{
    /*Your Code Here*/
-grid-row: 3;
+grid-row: 3 / auto;
 }
 
 
 .clients, .clients-image{
     /*Your Code Here*/
-grid-row: 4;
+grid-row: 4 / auto;
 }
 
 
 .contact, .contact-image{
     /*Your Code Here*/
-grid-row: 5;
+grid-row: 5 / auto;
 }
 
 .text-block{
